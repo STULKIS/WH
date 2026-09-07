@@ -1,0 +1,147 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "AbilitySystemGameFeatureActions",
+			"Enabled": true
+		},
+		{
+			"Name": "GASToolsets",
+			"Enabled": true
+		},
+		{
+			"Name": "MeshPartitionWater",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGMeshPartitionInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGBiomeCore",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGBiomeSample",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGPrimitives",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGPrimitives_MeshPartitionInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGToolset",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGFastGeoInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGInstancedActorsInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGGeometryScriptInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGWaterInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterAdvanced",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayGraph",
+			"Enabled": true
+		},
+		{
+			"Name": "MassGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MassAI",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SurfaceEffects",
+			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
+		},
+		{
+			"Name": "ExampleCustomDataInterface",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraUIRenderer",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraToolsets",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGNiagaraInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "GaeaUnrealTools",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		}
+	]
+}
